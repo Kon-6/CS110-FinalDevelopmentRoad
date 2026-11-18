@@ -35,10 +35,10 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-17",
-      "worked": "",
-      "next": "",
-      "blocker": "",
-      "evidence": ""
+      "worked": "I have experience using Unity and C# to create a simple 3D game. I also have experience using GitHub to save and manage my projects. I understand some basic programming concepts, but I am still improving my ability to write code independently. I can help develop game features, test the project, fix errors, and document my progress. I want to learn more about C# scripting, debugging, and creating more advanced game mechanics.",
+      "next": "I have experience using Unity and C# to create a simple 3D game. I also have experience using GitHub to save and manage my projects. I understand some basic programming concepts, but I am still improving my ability to write code independently. I can help develop game features, test the project, fix errors, and document my progress. I want to learn more about C# scripting, debugging, and creating more advanced game mechanics.",
+      "blocker": "I am still deciding which game to create. I want to choose something that challenges me but is realistic to finish within a month.",
+      "evidence": "https://github.com/Kon-6/CS110-FinalDevelopmentRoad"
     },
     "requirements": [
       {
@@ -55,7 +55,17 @@
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "I have experience using Unity and C# to create a simple 3D game. I also have experience using GitHub to save and manage my projects. I understand some basic programming concepts, but I am still improving my ability to write code independently. I can help develop game features, test the project, fix errors, and document my progress. I want to learn more about C# scripting, debugging, and creating more advanced game mechanics.",
+        "next": "I have experience using Unity and C# to create a simple 3D game. I also have experience using GitHub to save and manage my projects. I understand some basic programming concepts, but I am still improving my ability to write code independently. I can help develop game features, test the project, fix errors, and document my progress. I want to learn more about C# scripting, debugging, and creating more advanced game mechanics.",
+        "blocker": "I am still deciding which game to create. I want to choose something that challenges me but is realistic to finish within a month.",
+        "evidence": "https://github.com/Kon-6/CS110-FinalDevelopmentRoad",
+        "tasks": []
+      }
+    ]
   },
   "team": null,
   "sharedPlan": null,
