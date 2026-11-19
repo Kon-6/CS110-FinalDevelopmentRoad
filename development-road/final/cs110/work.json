@@ -6,9 +6,7 @@
   "work": {
     "project": "A story worth playing",
     "path": "explore",
-    "selected": [
-      "save"
-    ],
+    "selected": [],
     "engine": "Unity / C#",
     "environmentTest": true,
     "gitEvidence": "I connected my personal GitHub Repository and verified that my commits appear on GitHub. I confirmed that my Development Road checkpoint was committed and that pull request #1 from the final-road-backups branch was successfully merged into the main branch. I opened the commit history on GitHub and verified all 3 commits were visible.",
@@ -46,12 +44,6 @@
         "code": "R01",
         "title": "Working project foundation",
         "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
-      },
-      {
-        "id": "save",
-        "code": "R02",
-        "title": "Save and restore progress",
-        "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
       }
     ],
     "tasks": [],
