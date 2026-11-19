@@ -67,7 +67,22 @@
       }
     ]
   },
-  "team": null,
-  "sharedPlan": null,
+  "team": {
+    "name": "VideoGameDesign",
+    "mode": "solo",
+    "project": "A story worth playing",
+    "projectRepo": "",
+    "members": [
+      {
+        "name": "Kevin Contreras",
+        "role": "Developer"
+      }
+    ]
+  },
+  "sharedPlan": {
+    "goal": "",
+    "plan": "",
+    "tasks": []
+  },
   "completedReports": []
 }
