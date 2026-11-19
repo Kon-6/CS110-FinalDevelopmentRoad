@@ -7,7 +7,7 @@
     "project": "A story worth playing",
     "path": "explore",
     "selected": [
-      "external"
+      "save"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -48,10 +48,10 @@
         "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
       },
       {
-        "id": "external",
-        "code": "R13",
-        "title": "External playtest and revision",
-        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
+        "id": "save",
+        "code": "R02",
+        "title": "Save and restore progress",
+        "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
       }
     ],
     "tasks": [],
