@@ -33,10 +33,10 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
-      "worked": "ioqARep-dsZ88FOrhrmc4JDfWsQCPBHBNFieRw7DJD",
-      "next": "",
-      "blocker": "",
-      "evidence": ""
+      "worked": "Today, I reviewed the different requirements for my CS110 final project, including the Core, Features, Quality, Advanced, and Release sections. I compared the point values and estimated hours to figure out which requirements I can realistically complete. I also continued planning a possible horror game using Unity and C#.",
+      "next": "My next step is to finalize my game idea and choose the project requirements I want to complete. After that, I will create a development plan and start building my game in Unity.",
+      "blocker": "I am still deciding which requirements to choose because I want to earn as many points as possible while making sure I can finish everything before the deadline.",
+      "evidence": "CS110 Final Development Road — Assemble stage, project requirements and planning."
     },
     "requirements": [
       {
@@ -55,6 +55,15 @@
         "next": "I have experience using Unity and C# to create a simple 3D game. I also have experience using GitHub to save and manage my projects. I understand some basic programming concepts, but I am still improving my ability to write code independently. I can help develop game features, test the project, fix errors, and document my progress. I want to learn more about C# scripting, debugging, and creating more advanced game mechanics.",
         "blocker": "I am still deciding which game to create. I want to choose something that challenges me but is realistic to finish within a month.",
         "evidence": "https://github.com/Kon-6/CS110-FinalDevelopmentRoad",
+        "tasks": []
+      },
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "Today, I reviewed the different requirements for my CS110 final project, including the Core, Features, Quality, Advanced, and Release sections. I compared the point values and estimated hours to figure out which requirements I can realistically complete. I also continued planning a possible horror game using Unity and C#.",
+        "next": "My next step is to finalize my game idea and choose the project requirements I want to complete. After that, I will create a development plan and start building my game in Unity.",
+        "blocker": "I am still deciding which requirements to choose because I want to earn as many points as possible while making sure I can finish everything before the deadline.",
+        "evidence": "CS110 Final Development Road — Assemble stage, project requirements and planning.",
         "tasks": []
       }
     ]
